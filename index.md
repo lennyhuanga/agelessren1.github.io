@@ -1,38 +1,48 @@
-## 格局上医
+# 格局上医
 
 风水体系，有道法术器四个层面，只懂道法，不懂术器。通过佛眼（或神眼但不是天眼）来看风水，不用罗盘，不懂易经，所以不算命。
 
 什么是道、法的层面？改变命运从因不从果，从果上改变叫逆天，后患无穷；从因上改变叫顺天，功德无量。
 
 
-### Markdown
+## 主要提供以下服务：
+### 改命
+就是提升命格。什么叫命？什么叫运？生老病死，婚丧嫁娶，发财破财属于运气。而命才是根本，穷人的命，富人的命；士兵的命，将军的命；老百姓的命，当官的命。这是命的不同，但按照八字来说，你的出生年月日时辰是既定事实，流年也跟着定好了，所以在八字的体系内，命运不可改，就算你身边有个厉害的大师能改变一些东西，但最后，还是人算不如天算，最终一切无法改变。因此，想要真正改命，一定要到八字系统之外，在更高的纬度才能改变命运。这个纬度，就是天人合一的宇宙风水了，一般人不懂了，有缘的来吧。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+改命远程即可。目前不提供改运。
 
-```markdown
-Syntax highlighted code block
+初级提升命格，需要6年达到极致，高级提升命格，达到极致需要30年。当然，操作一完成，你立即会感觉到心量变大，情绪稳定，90天内，容颜变美变年轻。所以，提升命格要尽早。
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### 选吉宅（阴阳宅）
 
-1. Numbered
-2. List
+一是观灵术。远程判断吉凶。风水的吉凶从来都是由地块决定的，而不是户型。如果是户型决定风水 那么完全可以搞出几个完美户型，这样，风水师都失业了。同样的户型，在纽约的富人区和贫民窟风水难道是一样的吗？阴宅没有房型怎么决定风水。象上海这种大平地，有没有龙脉？有没有风水局？如果有，靠凡眼怎么看？如果没有，上海就不出富贵的人了吗？有没有比龙脉更牛逼的风水？当然有。
 
-**Bold** and _Italic_ and `Code` text
+所以，你提供房子的具体地址，我们来判断吉凶，这种远程即可完成。这种方式只能判断吉凶以及粗略的好坏以及是否适合你，想选到极好的房子，要大海捞针。吉宅百里挑一。
 
-[Link](url) and ![Image](src)
-```
+第二种方式，望气法。找到最强气场，需要用到望气法，这是找最好的阴阳宅的方法，缺点是必须现场，而且极有可能找不到。十万里挑一。
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+好房子旺一家人，好坟地旺一族人。
 
-### Jekyll Themes
+第三，禅定培训。禅定的定义是内不动心，外不住相。与打坐毫无关系。禅定有两个好处：一是通过禅定，证到禅定波罗蜜，了脱生死，证到般若，又可以获得大智慧。二是可以长寿，禅定是无念，禅定波罗蜜是无无念。彭抟老祖之所以长寿，就是因为他修到了无念，但最后被黑白无常抓住，也是因为得意忘形：“嘿嘿，想我彭抟老祖…”念一动，立即被黑白无常发现，也就死了。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lennyhuanga/lennyhuanga.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+第四，驻颜术，青春永驻之术。人类的长寿，如果活到200岁，但是，面貌枯萎，垂垂老矣，又整天生病，其实不仅不是福，反而是受罪。长寿的同时，身体健康，无病无灾，又能保持年轻态，充满活力，才有意义。
 
-### Support or Contact
+第五，健康维护。因为有佛眼，可以远程扫描身体，找到疾病的卡点；可以通过读心术和读魂术查到病因，也可以远程重启身体。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+远程的概念是，不限距离，地球任何角落都可以。为了验证远程的概念，每周一，会在微信朋友圈发一个时间段，约5分钟，闭眼静坐放松自己，排除杂念，一起体验神奇的时刻。
+
+
+
+### 特别说明
+
+因为法律原因，以上服务只针对中国大陆以外地区。
+
+
+
+### 联系我
+
+
+如果大家对以上项目感兴趣，欢迎加微信agelessren，微信名：格局上医
+
+或电子邮件renboxi@gmail.com
