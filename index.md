@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## 格局上医
 
-You can use the [editor on GitHub](https://github.com/lennyhuanga/lennyhuanga.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+风水体系，有道法术器四个层面，只懂道法，不懂术器。通过佛眼（或神眼但不是天眼）来看风水，不用罗盘，不懂易经，所以不算命。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+什么是道、法的层面？改变命运从因不从果，从果上改变叫逆天，后患无穷；从因上改变叫顺天，功德无量。
+
 
 ### Markdown
 
