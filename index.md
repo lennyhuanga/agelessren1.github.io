@@ -55,4 +55,3 @@
 或电子邮件renboxi@gmail.com
 
 了解更多故事请访问 www.gs2012.com
-[www.gs2012.com](www.gs2012.com)
