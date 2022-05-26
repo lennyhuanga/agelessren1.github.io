@@ -53,4 +53,4 @@
 
 或电子邮件renboxi@gmail.com
 
-更多的了解我们的故事请访问 www.gs2012.com
+了解我们更多的故事请访问 www.gs2012.com
