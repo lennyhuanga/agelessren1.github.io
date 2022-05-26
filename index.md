@@ -52,3 +52,5 @@
 如果大家对以上项目感兴趣，欢迎加微信agelessren，微信名：格局上医
 
 或电子邮件renboxi@gmail.com
+
+更多的了解我们的故事请访问 www.gs2012.com
