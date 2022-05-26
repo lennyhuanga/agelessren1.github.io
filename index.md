@@ -55,3 +55,9 @@
 或电子邮件renboxi@gmail.com
 
 了解更多故事请访问 <a href="http://www.gs2012.com" target="_blank"> www.gs2012.com </a>
+
+<style>
+  .footer {
+    display: none;
+  }
+</style>
