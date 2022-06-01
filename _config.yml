@@ -7,5 +7,9 @@ copyright:
 year:       2022
 name:       格局上医
 
+# Multiple languages
+gems:           ['jekyll-multiple-languages']
+languages:          ['en', 'cn']
+#设置不显示github 图标
 github:
   is_project_page: false
