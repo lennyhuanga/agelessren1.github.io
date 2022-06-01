@@ -7,9 +7,88 @@ copyright:
 year:       2022
 name:       格局上医
 
-# Multiple languages
-gems:           ['jekyll-multiple-languages']
-languages:          ['tc', 'cn']
 #设置不显示github 图标
 github:
   is_project_page: false
+
+languages:
+  en:
+    contentDir: content/en
+    languageName: English
+    weight: 1
+    DateFormat: "January 2, 2006"
+    profileMode:
+      enabled: true
+      imageUrl: "profile_avatar.webp"
+      imageWidth: 150
+      imageHeight: 150
+      title: Lex Cao
+      subtitle: Stay hungry, stay foolish.
+      buttons:
+        - name: Posts
+          url: posts
+        - name: Projects
+          url: projects
+    menu:
+      main:
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 1
+        - identifier: archives
+          name: Archives
+          url: /archives/
+          weight: 2
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 3
+        - identifier: projects
+          name: Projects
+          url: /projects/
+          weight: 4
+        - identifier: about
+          name: About
+          url: /about/
+          weight: 5
+  zh:
+    contentDir: content/zh
+    languageName: 中文
+    weight: 2
+    DateFormat: "2006 January 2"
+    profileMode:
+      enabled: true
+      imageUrl: "/profile_avatar.webp"
+      imageWidth: 150
+      imageHeight: 150
+      title: 曹 历鑫
+      subtitle: 在城市的肋骨间，感受一成不变的节拍
+      buttons:
+        - name: 博文
+          url: posts
+        - name: 项目
+          url: projects
+    label:
+      text: 代码笔记
+    menu:
+      main:
+        - identifier: search
+          name: 搜索
+          url: /search/
+          weight: 1
+        - identifier: archives
+          name: 归档
+          url: /archives/
+          weight: 2
+        - identifier: tags
+          name: 标签
+          url: /tags/
+          weight: 3
+        - identifier: projects
+          name: 项目
+          url: /projects/
+          weight: 4
+        - identifier: about
+          name: 关于
+          url: /about/
+          weight: 5
